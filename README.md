@@ -22,3 +22,7 @@ https://your-vercel-link.vercel.app
 ```bash
 npm install
 npm run dev
+
+## 📦 Build
+```bash
+npm run build
